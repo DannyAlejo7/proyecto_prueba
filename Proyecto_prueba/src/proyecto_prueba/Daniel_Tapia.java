@@ -11,8 +11,7 @@ package proyecto_prueba;
  */
 public class Daniel_Tapia {
     public static void main(String[] args) {
-        System.out.println("Yo soy tu macho!!!!!!!!!!!!");
-        //valen verga todos
+        
     }
 }
 
